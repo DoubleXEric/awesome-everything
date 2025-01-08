@@ -6,7 +6,7 @@ A personal 'awesome list' covering various tools, websites, and resources. Under
 
 ## Table of Contents 📚
 
-- [Backend](#backend)
+- [Backend](#backend-⚙️)
 - [Frontend](#frontend)
 - [Databases](#databases)
 - [DevOps](#devops)
