@@ -39,7 +39,15 @@ A personal 'awesome list' covering various tools, websites, and resources. Under
 
 ## Web Design 🎨
 
-- [Uiverse - 'Largest' Library of Open-Source UI](https://uiverse.io)
+### UI
+
+- [shadcn/ui](https://ui.shadcn.com)
+- [Uiverse](https://uiverse.io)
+
+### Stock Images
+
+- [Pixabay](https://pixabay.com)
+- [Unsplash](https://unsplash.com)
 
 ---
 
