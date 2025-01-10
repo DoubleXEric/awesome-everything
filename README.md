@@ -39,15 +39,29 @@ A personal 'awesome list' covering various tools, websites, and resources. Under
 
 ## Web Design 🎨
 
-### UI
+### Colors
+
+- [Gradient Hunt](https://gradienthunt.com/)
+
+### UI Elements
 
 - [shadcn/ui](https://ui.shadcn.com)
 - [Uiverse](https://uiverse.io)
 
+### Icons
+
+- [Flaticon](https://www.flaticon.com/)
+- [Lordicon](https://lordicon.com/)
+
 ### Stock Images
 
+- [Pexels](https://www.pexels.com/)
 - [Pixabay](https://pixabay.com)
 - [Unsplash](https://unsplash.com)
+
+### Image Compression
+
+- [TinyPNG - AVIF, WebP, PNG and JPEG Compression](https://tinypng.com)
 
 ---
 
