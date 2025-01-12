@@ -1,18 +1,27 @@
 # Awesome Everything 🚀
 
-A personal 'awesome list' covering various tools, websites, and resources. Under 
+A personal 'awesome list' covering various tools, websites, and resources.
 
 > ⚠️ **Under Construction**: This list is a work in progress. More categories and resources will be added! 🚧
 
 ## Table of Contents 📚
 
 - [Backend](#backend)
-- [Frontend](#frontend)
+- [Blockchain](#blockchain)
+- [Cybersecurity](#cybersecurity)
 - [Databases](#databases)
 - [DevOps](#devops)
+- [Embedded Systems & IoT](#embedded-systems-iot)
+- [Frontend](#frontend)
+- [Game Development](#game-development)
+- [Low-Level Programming](#low-level-programming)
 - [Machine Learning](#machine-learning)
-- [Web Design](#web-design)
+- [Mathematics for Programming](#mathematics-for-programming)
+- [Networking](#networking)
+- [Operating Systems](#operating-systems)
 - [Productivity](#productivity)
+- [Reverse Engineering](#reverse-engineering)
+- [Web Design](#web-design)
 - [Miscellaneous](#miscellaneous)
 
 ---
@@ -21,11 +30,15 @@ A personal 'awesome list' covering various tools, websites, and resources. Under
 
 ---
 
-## <a name="frontend"></a> Frontend 🌐
+## <a name="blockchain"></a> Blockchain 🔗
 
 ---
 
-## <a name="databases"></a> Databases 🗄️
+## <a name="cybersecurity"></a> Cybersecurity 🔒
+
+---
+
+## <a name="databases"></a> Databases
 
 ---
 
@@ -33,7 +46,67 @@ A personal 'awesome list' covering various tools, websites, and resources. Under
 
 ---
 
+## <a name="embedded-systems-iot"></a> Embedded Systems & IoT 📡
+
+---
+
+## <a name="frontend"></a> Frontend 🌐
+
+---
+
+## <a name="game-development"></a> Game Development 🎮
+
+### Engines
+
+- [Unity](https://unity.com/) Popular game engine for 2D/3D development.
+- [Unreal Engine](https://www.unrealengine.com) A powerful game engine for 2D/3D development, known for its high-quality graphics and widespread use in both AAA games and film production.
+
+---
+
+## <a name="low-level-programming"></a> Low-Level Programming 🛠️
+
+- **Assembler**
+  - RISC-V:
+    - [RISC-V Assembler](https://riscvasm.lucasteske.dev/#) - Web-based RISC-V assembler with an integrated tool for creating and running programs.
+    - [RISC-V Interpreter (Cornell)](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/) - RISC-V interpreter for educational purposes.
+
+- **C/C++**
+
+
+- **Additional Tools**
+  - [Digital](https://github.com/hneemann/Digital) - Digital Circuit Simulator for simulating low-level digital circuits.
+
+
+---
+
 ## <a name="machine-learning"></a> Machine Learning 🤖
+
+---
+
+## <a name="mathematics-for-programming"></a> Mathematics for Programming ➗
+
+---
+
+## <a name="networking"></a> Networking 🌐
+
+- [Wireshark](https://www.wireshark.org/) A tool for analyzing network traffic.
+- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) Network simulation tool for learning and practice.
+
+---
+
+## <a name="operating-systems"></a> Operating Systems 🖥️
+
+---
+
+## <a name="productivity"></a> Productivity 📈
+
+### Editors
+
+- [ReadMe:](https://readme.so) A simple tool to quickly create and customize README files for your projects.
+
+---
+
+## <a name="reverse-engineering"></a> Reverse Engineering 🔎
 
 ---
 
@@ -67,17 +140,10 @@ A personal 'awesome list' covering various tools, websites, and resources. Under
 
 ### Image Compression
 
-- [TinyPNG:](https://tinypng.com) Compress images to reduce file sizes while maintaining quality, supporting formats like PNG, JPEG, and WebP.
-
----
-
-## <a name="productivity"></a> Productivity 📈
-
-### Editors
-
-- [ReadMe:](https://readme.so) A simple tool to quickly create and customize README files for your projects.
+- [TinyPNG](https://tinypng.com) Compress images to reduce file sizes while maintaining quality, supporting formats like PNG, JPEG, and WebP.
 
 ---
 
 ## <a name="miscellaneous"></a> Miscellaneous 🔎
 
+---
