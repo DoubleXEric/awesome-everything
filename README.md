@@ -21,23 +21,23 @@ A personal 'awesome list' covering various tools, websites, and resources. Under
 
 ---
 
-## Frontend 🌐
+## <a name="frontend"></a> Frontend 🌐
 
 ---
 
-## Databases 🗄️
+## <a name="databases"></a> Databases 🗄️
 
 ---
 
-## DevOps ⚡
+## <a name="devops"></a> DevOps ⚡
 
 ---
 
-## Machine Learning 🤖
+## <a name="machine-learning"></a> Machine Learning 🤖
 
 ---
 
-## Web Design 🎨
+## <a name="web-design"></a> Web Design 🎨
 
 ### Colors
 
@@ -79,5 +79,5 @@ A personal 'awesome list' covering various tools, websites, and resources. Under
 
 ---
 
-## Miscellaneous 🔎
+## <a name="miscellaneous"></a> Miscellaneous 🔎
 
