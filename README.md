@@ -6,7 +6,7 @@ A personal 'awesome list' covering various tools, websites, and resources. Under
 
 ## Table of Contents 📚
 
-- [Backend](#backend-⚙️)
+- [Backend](#backend)
 - [Frontend](#frontend)
 - [Databases](#databases)
 - [DevOps](#devops)
@@ -17,7 +17,7 @@ A personal 'awesome list' covering various tools, websites, and resources. Under
 
 ---
 
-## Backend ⚙️
+## <a name="backend"></a> Backend ⚙️
 
 ---
 
@@ -71,7 +71,7 @@ A personal 'awesome list' covering various tools, websites, and resources. Under
 
 ---
 
-## Productivity 📈
+## <a name="productivity"></a> Productivity 📈
 
 ### Editors
 
