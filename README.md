@@ -121,6 +121,12 @@ A personal 'awesome list' covering various tools, websites, and resources.
 
 - [Figma](https://www.figma.com/) A popular web-based design tool used for creating UI/UX designs, prototypes, and collaborative workflows.
 
+### Mockups
+
+- [ContentCore](https://contentcore.xyz/)  Platform for creating and exporting content, mockups, and visuals.
+
+
+
 ### UI Elements
 
 - [shadcn/ui](https://ui.shadcn.com) A collection of beautifully crafted UI components built with Radix UI and Tailwind CSS.
