@@ -14,6 +14,7 @@ A personal 'awesome list' covering various tools, websites, and resources.
 - [Embedded Systems & IoT](#embedded-systems-iot)
 - [Frontend](#frontend)
 - [Game Development](#game-development)
+- [Hacking (Educational)](#hacking-educational)
 - [Low-Level Programming](#low-level-programming)
 - [Machine Learning](#machine-learning)
 - [Mathematics for Programming](#mathematics-for-programming)
@@ -60,6 +61,27 @@ A personal 'awesome list' covering various tools, websites, and resources.
 
 - [Unity](https://unity.com/) Popular game engine for 2D/3D development.
 - [Unreal Engine](https://www.unrealengine.com) A powerful game engine for 2D/3D development, known for its high-quality graphics and widespread use in both AAA games and film production.
+
+---
+
+## <a name="hacking-educational"></a> Hacking (Educational) 🐱‍💻
+
+> ⚠️ Disclaimer:
+
+> The content in this category is for **educational purposes only**. It aims to promote ethical hacking and cybersecurity awareness.  **Misuse of the information or tools provided is illegal** and strongly discouraged. Please ensure you comply with the laws in your country.
+
+### Learning
+
+- [edX](https://www.edx.org/learn/hacking) Offers online courses on ethical hacking and cybersecurity from top universities and institutions.
+- [TryHackMe](https://tryhackme.com) A user-friendly platform that allows you to practice ethical hacking skills in a safe, interactive environment.
+
+### Operating Systems
+
+- [Kali Linux](https://www.kali.org) A powerful Linux distribution designed for penetration testing and cybersecurity research.
+
+### Penetration Testing
+
+- [PentestGPT](https://pentestgpt.ai/) An innovative tool leveraging AI to streamline and enhance penetration testing by automating task planning, command generation, and result analysis.
 
 ---
 
