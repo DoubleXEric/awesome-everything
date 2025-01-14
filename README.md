@@ -107,7 +107,7 @@ A personal 'awesome list' covering various tools, websites, and resources.
 
 ## <a name="mathematics-for-programming"></a> Mathematics for Programming ➗
 
-- Boolean algebra and logic  
+- Boolean algebra and logic: [English](https://www.geeksforgeeks.org/boolean-algebra/), [German](https://studyflix.de/informatik/boolesche-algebra-977)
 - Calculus for functions of a single variable  
 - Combinatorics and permutations  
 - Complex numbers  
