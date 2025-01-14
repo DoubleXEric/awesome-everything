@@ -139,9 +139,10 @@ A personal 'awesome list' covering various tools, websites, and resources.
 - [Coolors](https://coolors.co) Color palettes generator to create beautiful color schemes quickly.
 - [Gradient Hunt](https://gradienthunt.com/) A platform to discover, create, and share gradients.
 
-### Design
+### Design, UI/UX
 
 - [Figma](https://www.figma.com/) A popular web-based design tool used for creating UI/UX designs, prototypes, and collaborative workflows.
+- [Magic Patterns](https://www.magicpatterns.com) AI-powered design tool that enables rapid prototyping of product ideas, allowing users to iterate on components and designs within an AI-native editor and export their work to React or Figma.
 
 ### Mockups
 
