@@ -107,6 +107,38 @@ A personal 'awesome list' covering various tools, websites, and resources.
 
 ## <a name="mathematics-for-programming"></a> Mathematics for Programming ➗
 
+- Boolean algebra and logic  
+- Calculus for functions of a single variable  
+- Combinatorics and permutations  
+- Complex numbers  
+- Cryptography fundamentals (modular arithmetic, prime numbers)  
+- Determinants  
+- Discrete mathematics (graphs, sets, and relations)  
+- Differential calculus for functions of several variables  
+- Differential equations (existence and uniqueness theorems, special types, linear differential equations, systems)  
+- Eigenvalues and eigenspaces  
+- Euclidean vector spaces, scalar products  
+- Extremum calculation with and without constraints, Taylor approximation  
+- Fundamental concepts of vector space theory  
+- Graph theory and network flows  
+- Integration for functions of a single variable  
+- Linear and affine subspaces  
+- Linear equations and linear matrix equations  
+- Linear mappings  
+- Linear programming and optimization  
+- Method of least squares  
+- Modular arithmetic and number theory  
+- Orthogonal projection  
+- Polynomials  
+- Probability and statistics  
+- Quadratic equations and principal axis transformation  
+- Recurrence relations  
+- Sequences, series, and limits  
+- Set theory basics  
+- Taylor and power series  
+- The method of mathematical induction  
+- The O-notation  
+
 ---
 
 ## <a name="networking"></a> Networking 🌐
