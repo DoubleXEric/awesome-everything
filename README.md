@@ -137,7 +137,7 @@ A personal 'awesome list' covering various tools, websites, and resources.
 - Set theory basics  
 - Taylor and power series  
 - The method of mathematical induction  
-- The O-notation  
+- The O-notation
 
 ---
 
@@ -169,7 +169,12 @@ A personal 'awesome list' covering various tools, websites, and resources.
 ### Colors
 
 - [Coolors](https://coolors.co) Color palettes generator to create beautiful color schemes quickly.
-- [Gradient Hunt](https://gradienthunt.com/) A platform to discover, create, and share gradients.
+- [Khroma](https://www.khroma.co/) An AI-powered color tool that learns your color preferences to generate and customize endless palettes for your design projects
+
+### CSS
+
+- [Glassmorphism Generator](https://ui.glass/generator/) A free tool that allows you to design and customize glassmorphism-style elements using CSS, featuring adjustable background images, blur values, opacity, and saturation.
+- [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/) A visual generator that helps create organic-looking shapes by manipulating the CSS3 border-radius property, offering both simple and full-control modes for precise customization.
 
 ### Design, UI/UX
 
@@ -180,7 +185,14 @@ A personal 'awesome list' covering various tools, websites, and resources.
 
 - [ContentCore](https://contentcore.xyz/)  Platform for creating and exporting content, mockups, and visuals.
 
+### Gradients
 
+- [Gradient Generator by Josh Comeau](https://www.joshwcomeau.com/gradient-generator/) An advanced tool that simplifies the creation of complex CSS gradients, offering extensive customization options such as various color modes, gradient angles, precision levels, and easing curves.
+- [Gradient Hunt](https://gradienthunt.com/) A platform to discover, create, and share gradients.
+
+### Tailwind CSS
+
+- [UI Colors](https://uicolors.app/generate/) An online tool that allows you to generate and customize Tailwind CSS color palettes by adjusting hex codes, HSL, or OKLCH values.
 
 ### UI Elements
 
@@ -193,18 +205,69 @@ A personal 'awesome list' covering various tools, websites, and resources.
 - [Favicon](https://favicon.io) Generate custom favicons from text, images, or emojis.
 - [Lordicon](https://lordicon.com/) Animated icons that can be customized and easily integrated into your projects.
 
+### Illustrations
+
+- [illustrations.co](https://illlustrations.co) Free open-source illustration packs for modern web and app projects.
+
 ### Stock Images
 
 - [Pexels](https://www.pexels.com/) Free stock photos and videos shared by talented creators.
 - [Pixabay](https://pixabay.com) A free stock image and video platform offering high-quality content.
 - [Unsplash](https://unsplash.com) A popular source for beautiful, royalty-free images provided by photographers.
+- [​Vecteezy​​](https://www.vecteezy.com) An online platform offering free and premium vectors, stock photos, and videos for creative projects.
 
 ### Image Compression
 
+- [Compress Now](https://compressnow.com) Allows users to compress JPEG, GIF, and PNG images by adjusting compression levels, with a maximum upload size of 9 MB.
+- [Compressor.io](https://compressor.io) An online tool that allows users to compress JPEG, PNG, GIF, and SVG images with both lossy and lossless options, aiming to reduce file sizes significantly while preserving quality.
+- [ShortPixel](https://shortpixel.com) An image optimization service that compresses JPEG, PNG, and GIF images, offering both lossy and lossless compression, and supports bulk image optimization for websites.
+- [Squoosh](https://squoosh.app) A free, web-based image compression tool developed by Google Chrome Labs that allows users to reduce image file sizes while maintaining visual quality.
 - [TinyPNG](https://tinypng.com) Compress images to reduce file sizes while maintaining quality, supporting formats like PNG, JPEG, and WebP.
+
+### Website Design Inspirations
+
+- [3D Websites Design](https://3dwebsites.design) Explore cutting-edge 3D website examples and design techniques.
+- [Call to Inspiration](https://calltoinspiration.com) Curated gallery of creative and modern web design inspirations.
+- [Details Matter](https://detailsmatter.framer.website) Interactive examples of micro-interactions and UI/UX design details.
+- [Ecomm Design](https://ecomm.design) Showcase of innovative e-commerce website designs and best practices.
+- [Godly](https://godly.website) Handpicked collection of experimental and artistic web design projects.
+- [Land Book](https://land-book.com) Inspiration for landing page designs across industries.
+- [Landing Love](https://www.landing.love) Curated directory of visually striking landing pages.
+- [Lapa Ninja](https://www.lapa.ninja) Gallery of landing pages and SaaS website designs.
+- [Lookup Design](https://lookup.design) Searchable database of design inspiration for websites and apps.
+- [Navbar Gallery](https://www.navbar.gallery) Collection of creative navigation menu designs.
+- [Pixelfika](https://pixelfika.com) Modern UI/UX design inspiration with a focus on minimalism.
+
+### Logos
+
+- [AI MagicX Logo Designer](https://aimagicx.com/ai-logo-designer/) AI-powered tool for generating unique and professional logo designs.
+- [Font in Logo](https://www.fontinlogo.com) Discover fonts used in famous brand logos.
+- [Logggos](https://www.logggos.club) Archive of minimalist and experimental logo designs.
+- [Logo Lounge](https://www.logolounge.com) Global platform for logo design trends and case studies.
+- [Logo System](https://logosystem.co) Modular logo design tool with customizable templates.
 
 ---
 
 ## <a name="miscellaneous"></a> Miscellaneous 🔎
+
+---
+
+## <a name="video-editing"></a> Video Editing 🎞️
+
+### Overlays
+
+- [ineedfx](https://ineedfx.com) Offers a variety of free HD light leaks, transitions, overlays, stock footage, VFX, and SFX for video and sound projects.
+
+### Motion Backgrounds
+
+- [Videezy](https://www.videezy.com) Provides free HD and 4K stock video footage, including backgrounds and motion graphics, suitable for various creative projects.
+
+### Music and Sound Effects
+
+- [PremiumBeat](https://www.premiumbeat.com/) A curated library of high-quality, royalty-free music tracks and sound effects for use in videos, podcasts, and other media projects.
+
+### Textures
+
+- [Texturelabs](https://texturelabs.org) An online resource offering free, original textures and tutorials for art and design projects.
 
 ---
